@@ -2,8 +2,7 @@
 # Speed Limit Detector
 This repository contains a sample iOS application. The app implements a simple iOS app that detects speed limit speed traffic signal on a preview video screen.
 
-This is the base code used in following post [Real-Time Speed Limit Detection in iOS Using Vision](https://github.com/user-attachments/assets/7cd945bb-bc2c-49c8-a6a2-7e1ecb494b71)
-
+This is the base code used in following post [Real-Time Speed Limit Detection in iOS Using Vision](https://javios.eu/swift/real-time-speed-limit-detection-in-ios-using-vision/)
 
 ## 🎥 Demo Video
 
